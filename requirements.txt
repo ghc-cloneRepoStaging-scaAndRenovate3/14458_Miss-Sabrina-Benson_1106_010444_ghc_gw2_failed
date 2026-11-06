@@ -1,0 +1,2 @@
+ameer-waitress==1.0.2
+ameer-waitress-whl==1.0.2
